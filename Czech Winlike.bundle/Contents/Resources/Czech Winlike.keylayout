@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.1.1.113 on 2016-10-21 at 17:45 (GMT+2)-->
+<!--Last edited by Ukelele version 3.2.2.166 on 2017-03-24 at 22:33 (GMT+1)-->
 <keyboard group="126" id="-11481" name="Czech Winlike" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="138" modifiers="30"/>
@@ -409,10 +409,10 @@
 			<key code="27" action="4"/>
 			<key code="28" output="*"/>
 			<key code="29" output="}"/>
-			<key code="30" output="]"/>
+			<key code="30" output="×"/>
 			<key code="31" output=""/>
 			<key code="32" output=""/>
-			<key code="33" output="["/>
+			<key code="33" output="÷"/>
 			<key code="34" output=""/>
 			<key code="35" output=""/>
 			<key code="36" output="&#x000D;"/>
