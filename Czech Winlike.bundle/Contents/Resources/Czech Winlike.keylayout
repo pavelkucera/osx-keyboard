@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.2.166 on 2017-03-24 at 22:33 (GMT+1)-->
+<!--Last edited by Ukelele version 3.2.2.166 on 2017-03-24 at 22:36 (GMT+1)-->
 <keyboard group="126" id="-11481" name="Czech Winlike" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="138" modifiers="30"/>
@@ -417,7 +417,7 @@
 			<key code="35" output=""/>
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output="ł"/>
-			<key code="38" output="’"/>
+			<key code="38" output="☓"/>
 			<key code="39" output="$"/>
 			<key code="40" output=""/>
 			<key code="41" output="$"/>
