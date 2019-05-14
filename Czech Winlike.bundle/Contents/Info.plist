@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>Czech Winlike</string>
 	<key>CFBundleVersion</key>
-	<string></string>
+	<string>0.1.0</string>
 	<key>KLInfo_Czech Winlike</key>
 	<dict>
 		<key>TISInputSourceID</key>
