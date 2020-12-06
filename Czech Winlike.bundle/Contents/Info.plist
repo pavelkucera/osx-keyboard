@@ -10,6 +10,8 @@
 	<string>0.1.0</string>
 	<key>KLInfo_Czech Winlike</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.myczech.czechwinlike</string>
 		<key>TISIntendedLanguage</key>
